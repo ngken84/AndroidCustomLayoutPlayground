@@ -7,6 +7,12 @@
     android:background="@drawable/my_background_design"
     tools:context=".MainActivity">
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Gradient Button"
+        android:background="@drawable/button_design"
+        android:layout_margin="10dp"/>
 
 
 </LinearLayout>
